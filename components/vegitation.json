@@ -1,0 +1,14 @@
+{
+
+"tree": {
+	"yields": ["wood","sticks", "leaves"]
+	}
+ 
+"Virginia Pine": {
+	"range": {
+			"minlat" : "38",
+			"maxlat" : "65",
+			"maxalt: " "1200"
+			},
+	"model": "models/va-pine.3dmodel"
+	}

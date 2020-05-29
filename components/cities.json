@@ -1,0 +1,10 @@
+{
+"city": {
+	},
+
+"charleston": {
+	"state": "South Carolina",
+	"location": "!!! probably a quadrangle in lat/lon",
+	"regions" : [ "port", "market", "residential" ]
+
+}
